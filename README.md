@@ -17,15 +17,9 @@
 - Soon
 <!-- BLOG-POST-LIST:END -->
 
-[more blog posts...][website]
-
 #### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Omega-Numworks/Omega-Modbot/pull/9) in [Omega-Numworks/Omega-Modbot](https://github.com/Omega-Numworks/Omega-Modbot)
-2. 🎉 Merged PR [#11](https://github.com/Omega-Numworks/Omega-IDE/pull/11) in [Omega-Numworks/Omega-IDE](https://github.com/Omega-Numworks/Omega-IDE)
-3. 🎉 Merged PR [#8](https://github.com/Omega-Numworks/Omega-Modbot/pull/8) in [Omega-Numworks/Omega-Modbot](https://github.com/Omega-Numworks/Omega-Modbot)
-4. 💪 Opened PR [#919](https://github.com/LukeSmithxyz/based.cooking/pull/919) in [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking)
-5. 🎉 Merged PR [#598](https://github.com/Omega-Numworks/Omega/pull/598) in [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega)
+- Soon
 <!--END_SECTION:activity-->
 
 </details>
