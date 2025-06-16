@@ -2,7 +2,7 @@
 
 #### Languages and Tools:
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=blue)
-![Lua/gLua]([https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=red](https://img.shields.io/badge/-Lua-000000?style=for-the-badge&logo=Lua&logoColor=blue))
+![Lua/gLua](https://img.shields.io/badge/-Lua-000000?style=for-the-badge&logo=Lua&logoColor=blue)
 ![Python3](https://img.shields.io/badge/-Py3-000000?style=for-the-badge&logo=Python&logoColor=cyan)
 ![JS](https://img.shields.io/badge/-JS-000000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=Kotlin&logoColor=purple)
